@@ -18,8 +18,3 @@ pipeline {
         }  
     }  
 }
-
-
-
-  echo "hello world "
-  echo "my 1st pipeline "
